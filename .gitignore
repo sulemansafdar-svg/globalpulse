@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.env
-data/
-*.json
-gcp-key.json
-.vscode/
-node_modules/
